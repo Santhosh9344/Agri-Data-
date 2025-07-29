@@ -7,7 +7,7 @@ A unified platform to analyze and visualize Indian agricultural statistics. Buil
 
 
 
-#                                            POWER BI
+#                                            POWER BI Screenshots
 
 
 
