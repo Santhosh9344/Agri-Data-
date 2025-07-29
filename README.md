@@ -6,13 +6,14 @@ A unified platform to analyze and visualize Indian agricultural statistics. Buil
 ---
 ##  🚀 Features
 
--📊 **Interactive dashboards in Power BI for state/district-level filtering.**
--🧮 **SQL-powered queries for real-time insights.**
--📅 **Year-wise comparisons of crop yield, area, and production.**
--🔍 **Top crop producers by state/district.**
--📂 ** Clean and structured dataset (cleaned_icrisat_final.csv).**
--📌 **Insights on rice, wheat, maize, oilseeds, cotton, sugarcane, and more.**
+- Interactive dashboards in Power BI for state/district-level filtering.
+- SQL-powered queries for real-time insights.
+-Year-wise comparisons of crop yield, area, and production.
+- Top crop producers by state/district.
+- Clean and structured dataset (cleaned_icrisat_final.csv).
+- Insights on rice, wheat, maize, oilseeds, cotton, sugarcane, and more.
 
+  
 ---
 
 
