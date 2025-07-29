@@ -4,6 +4,22 @@
 A unified platform to analyze and visualize Indian agricultural statistics. Built with SQL, Python, and Power BI to empower data-driven decisions for crop planning, policymaking, and agri-business development.
 
 ---
+
+
+## 📌 Project Overview
+
+**AgriData Explorer** is designed to simplify complex agricultural datasets and uncover insights about:
+
+
+
+- 🌱 **Crop production trends**
+- 📍** State & district-wise agricultural patterns**
+- 📈 **Yield performance and cultivated area**
+- ⚙️**Seasonal and year-over-year analytics**
+
+It’s ideal for researchers, students, government planners, and agritech startups.
+
+---
 ##  🚀 Features
 
 - Interactive dashboards in Power BI for state/district-level filtering.
