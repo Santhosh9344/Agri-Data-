@@ -1,4 +1,4 @@
-##🌾 AgriData Explorer
+#🌾 AgriData Explorer
 
 A unified platform to analyze and visualize Indian agricultural statistics. Built with SQL, Python, and Power BI to empower data-driven decisions for crop planning, policymaking, and agri-business development.
 
@@ -9,7 +9,7 @@ A unified platform to analyze and visualize Indian agricultural statistics. Buil
 
 #                                            POWER BI
 
----
+
 
 # Agri-Data
 <img width="1427" height="744" alt="image" src="https://github.com/user-attachments/assets/7f322a30-2aab-4a6a-b5b3-8153b8fcef3a" />
